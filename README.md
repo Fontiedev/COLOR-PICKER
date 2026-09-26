@@ -1,2 +1,2 @@
 # COLOR-PICKER
-Komponen antar muka (UI) yang memunkinkan pemilihan warna
+Komponen antar muka (UI) yang memungkinkan pemilihan warna
